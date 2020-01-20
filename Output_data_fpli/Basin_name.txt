@@ -1,0 +1,39 @@
+01   Yukon
+02   Mackenzie
+03   Nelson
+04   Mississippi
+05   St Lawrence
+06   Amazon
+07   Parana
+08   Niger
+09   Lake Chad
+10   congo
+11   nile
+12   zambezi
+13   volga
+14   ob
+15   yenisey
+16   lena
+17   kolyma
+18   amur
+19   ganges
+20   yangtze
+21   murray
+22   huanghe
+23   indus
+24   euphrates
+25   danube
+26   orange
+
+
+
+
+
+
+
+
+
+
+
+
+
